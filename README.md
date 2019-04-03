@@ -1,5 +1,3 @@
-#LIRI
-
 LIRI 
 
 There are four possible Commands: 'concert-this', 'spotify-this-song', 'movie-this', or 'do-what-it-says'
